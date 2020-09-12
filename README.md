@@ -20,8 +20,8 @@ The results are shown in a scrolling window with the results formatted as plain 
 
 ## Images
 
-![Main window](/"Screenshot from 2020-09-12 17-48-40.png")
-![Search results window](/"Screenshot from 2020-09-12 17-52-43.png")
+![Main window]("Screenshot from 2020-09-12 17-48-40.png")
+![Search results window]("Screenshot from 2020-09-12 17-52-43.png")
 
 
 ## Why does it take time?
