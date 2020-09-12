@@ -2,7 +2,7 @@
 Graphical interface to find the perfect movie querying the IMDB database. Video on my [Linkedln post](https://www.linkedin.com/feed/update/urn:li:activity:6710466352265617408/)
 
 
-## Requirements
+## Python Package Requirements
 
 - Tkinter
 - Pandas
