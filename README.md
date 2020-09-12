@@ -1,5 +1,5 @@
 # IMDB-Database-Automatic-Movie-Picker
-Graphical interface to find the perfect movie querying the IMDB database.
+Graphical interface to find the perfect movie querying the IMDB database. Video on my [Linkedln post](https://www.linkedin.com/feed/update/urn:li:activity:6710466352265617408/)
 
 
 ## Requirements
@@ -32,8 +32,8 @@ Should take a lot of time, up to 10 minutes. If no results were found or the mov
 
 ## Images
 
-![Main window](Screenshot from 2020-09-12 17-48-40.png)
-![Search results window](Screenshot from 2020-09-12 17-52-43.png)
+![Main window](image_1.png)
+![Search results window](image_2.png)
 
 
 ## Why does it take time?
